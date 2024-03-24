@@ -1,6 +1,6 @@
 import { Character } from './../interfaces/character,interface';
 import { Injectable } from '@angular/core';
-import{v4 as uuid} from 'uuid';
+import{v4 as uuid} from'uuid';
 
 @Injectable({
   providedIn: 'root'})
